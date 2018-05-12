@@ -1,0 +1,34 @@
+_repo: The-Little-Regiment-and-Other-Episodes-of-the-American-Civil-War_31488
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 31488-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Crane, Stephen
+    alias: Smith, Johnston
+    birthdate: 1871
+    deathdate: 1900
+    gutenberg_agent_id: '55'
+    url: http://www.gutenberg.org/2009/agents/55
+    wikipedia: http://en.wikipedia.org/wiki/Stephen_Crane
+description: This is an electronic edition of the complete book complemented by author
+  biography. This book features a table of contents linked to every chapter. The book
+  was designed for optimal navigation on the Kindle, PDA, Smartphone, and other electronic
+  readers. It is formatted to display on all electronic devices including the Kindle,
+  Smartphones and other Mobile Devices with a small display.
+gutenberg_issued: '2010-03-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31488'
+  lccn: 06031149
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Fiction'
+- !lcsh 'War stories, American'
+title: The Little Regiment, and Other Episodes of the American Civil War
+url: http://www.gutenberg.org/ebooks/31488
